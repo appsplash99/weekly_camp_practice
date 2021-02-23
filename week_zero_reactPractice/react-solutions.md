@@ -2,8 +2,8 @@
 
 | Sr No. | Problem                       | Solutions   |Personal Notes|
 | :---:  | :---                          |    :----:   |    :----:   |
-| 1.     | a simple counter              |      -      |      -      |
-| 2.     | character counter (Twitter)   |      -      |      -      |
+| 1.     | a simple counter              | [Repl Link](https://repl.it/@ApurvChimralwar/simple-counter) |      -      |
+| 2.     | character counter (Twitter)   | [Repl Link](https://repl.it/@ApurvChimralwar/character-counter-twitter) |      -      |
 | 3.     | password match                | [Repl Link](https://repl.it/@ApurvChimralwar/password-match-via-only-one-useState-call) |      -      |
 | 4.     | alphanumeric password         |      -      |      -      |
 | 5.     | disable submit                | [Repl Link](https://repl.it/@ApurvChimralwar/disable-submit-working-v2) |      -      |
