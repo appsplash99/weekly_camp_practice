@@ -1,1 +1,1 @@
-# weekly_camp_practiceee
+# weekly_camp_practice
