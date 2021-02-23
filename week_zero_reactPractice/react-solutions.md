@@ -1,4 +1,4 @@
-# Topic wise questions and solutions to programming logic
+# Topic wise questions and solutions to week zero - react practice
 
 | Serial Number| Problem                       | Solutions   |
 | :---         | :---                          |    :----:   |
