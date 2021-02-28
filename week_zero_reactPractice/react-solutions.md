@@ -9,7 +9,7 @@
 | 5.     | disable submit                | [Repl Link](https://repl.it/@ApurvChimralwar/disable-submit-working-v2) |      -      |
 | 6.     | show password                 | [Repl Link](https://repl.it/@ApurvChimralwar/show-password-v2) |      -      |
 | 7.     | designer tool (small figma)   | [Repl Link](https://repl.it/@ApurvChimralwar/designer-tool-small-figma-app-v3) |      TODO: on click font templates|
-| 8.     | add to cart                   |      -      |      -      |
+| 8.     | add to cart                   | [Repl Link](https://repl.it/@ApurvChimralwar/add-to-cart-v4)  |      -      |
 | 9.     | switch tabs                   |      -      |      -      |
 | 10.    | toast                         |      -      |      -      |
 | 11.    | todo/strikethrough            |      -      |      -      |
