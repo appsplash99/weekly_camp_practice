@@ -19,6 +19,12 @@ Write your own filter, map, reduce */
 /*2.
 PolyFill the Array Methods*/
 
+/*3.
+Write Array.map with Reduce */
+
+/*4.
+Write Array.filter with Reduce */
+
 
 /*
 #############################
