@@ -160,7 +160,7 @@ const input = ['apple', 'orange', 'mango', 'papaya']
       {
         strCount : numberOfStrings with length equal to strCount
       }
-*/ 
+*/
 // const arrS1 = ['apple', 'orange', 'mango', 'papaya'];
 // const strLen = word => word.length
 // // const 
@@ -197,7 +197,6 @@ return an array of objects -
 with key as item and value as number of characters in the string.*/
 /*  Approach:
 
-
     final return:
       {
         'I': 1,
@@ -207,19 +206,11 @@ with key as item and value as number of characters in the string.*/
 */
 // const arrS3 = ['I', 'love', 'JavaScript', 'and', 'Python']
 // const strLen = str => str.length
+// /*docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#counting_instances_of_values_in_an_object */
+// via docs - call back to form a key:value pair for each entry of the array
 // const callbackReduceItemToObj = (accumulatorObj, item) => {
 //   accumulatorObj[item]=strLen(item)
 //   return accumulatorObj
 // }
-// /*docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#counting_instances_of_values_in_an_object */
 // const reduceArrToObj = arr => arr.reduce(callbackReduceItemToObj, {})  // {} is initial value for callback
 // console.log(reduceArrToObj(arrS3))
-
-
-
-
-
-
-
-
-
