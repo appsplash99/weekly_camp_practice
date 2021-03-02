@@ -14,7 +14,7 @@
 ###########################
 */
 /*1.
-Write your own filter, map, reduce*/
+Write your own filter, map, reduce */
 
 /*2.
 PolyFill the Array Methods*/
