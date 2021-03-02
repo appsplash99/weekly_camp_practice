@@ -1,4 +1,4 @@
-# Topic wise questions and solutions to week zero - react practice
+# Topic wise questions and solutions to week zero - react practicee
 
 | Sr No. | Problem                       | Solutions   |Personal Notes|
 | :---:  | :---                          |    :----:   |    :----:   |
