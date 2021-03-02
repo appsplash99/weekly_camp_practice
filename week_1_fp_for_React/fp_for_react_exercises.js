@@ -117,7 +117,6 @@ odd numbers and even numbes seperately.
 /*Approach: 
   filter all values as odd and even → Array.filter()
   return object with sum of oddNumbers and evenNumbers seperately → Array.reduce()
-
   Final Object to return:
   {
     'odd' : sumOfAllOddElements ,
@@ -149,7 +148,73 @@ odd numbers and even numbes seperately.
 
 /*1.
 Given an Array of Strings,
+Find the number of strings with similar number of characters.
+Example:
+const input = ['apple', 'orange', 'mango', 'papaya']
+// → output: { 5:2, 6:2 }
 */
+/* Approach:
+    iterating over each item to get the strLength,
+    use Array.reduce() to extract the number of counts to form an object
+    final return :
+      {
+        strCount : numberOfStrings with length equal to strCount
+      }
+*/ 
+// const arrS1 = ['apple', 'orange', 'mango', 'papaya'];
+// const strLen = word => word.length
+// // const 
+// /*docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#counting_instances_of_values_in_an_object */
+// // callback to return object
+// const instanceCounter = (accumulatorObj, item) => {
+//   if (strLen(item) in accumulatorObj) {
+//     accumulatorObj[strLen(item)]++
+//   } else {
+//     accumulatorObj[strLen(item)]=1
+//   }
+//   return accumulatorObj
+// }
+// const countOccurences = (arr) => arr.reduce(instanceCounter, {})
+// console.log(countOccurences(arrS1))
+
+
+/*2.
+Given an Array of Strings,
+return an array with strings which have vowels.*/
+/*Approach:
+  filtering all words for vowel presence → Array.filter()
+*/
+// const arrS2 = ['aaa', 'bbb', 'abab', 'xyz', 'aeiou','i' ,'c', 'zzz']
+// const isVowel = (letter) => ['a', 'e', 'i', 'o', 'u'].indexOf(letter.toLowerCase()) !== -1
+// const wordHasVowel = (wordStr) => wordStr.split('').filter(isVowel).length>0  // returns true if non-empty array
+// const arrOfVowelWords = (arr) => arr.filter(wordHasVowel)
+// console.log(arrOfVowelWords(arrS2))
+
+
+/*3.
+Given an array of strings,
+return an array of objects - 
+with key as item and value as number of characters in the string.*/
+/*  Approach:
+
+
+    final return:
+      {
+        'I': 1,
+        'love': 4,
+        'JS': 2,
+      }
+*/
+// const arrS3 = ['I', 'love', 'JavaScript', 'and', 'Python']
+// const strLen = str => str.length
+// const callbackReduceItemToObj = (accumulatorObj, item) => {
+//   accumulatorObj[item]=strLen(item)
+//   return accumulatorObj
+// }
+// /*docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#counting_instances_of_values_in_an_object */
+// const reduceArrToObj = arr => arr.reduce(callbackReduceItemToObj, {})  // {} is initial value for callback
+// console.log(reduceArrToObj(arrS3))
+
 
 
 
