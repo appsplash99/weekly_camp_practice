@@ -1,4 +1,4 @@
-/* FUNCTIONAL PROGRAMMING FOR REACT*/
+/* FUNCTIONAL PROGRAMMING FOR REACT */
 
 /* HOW TO DO FUNCTIONAL PROGRAMMING */
 
@@ -57,16 +57,3 @@ Given An Array of numbers, calculate the sum*/
 // const adder = (accumulator, currVal) => accumulator + currVal
 // const sumOfArr = (arr) => arr.reduce(adder)
 // console.log(sumOfArr(arr3))
-
-
-
-
-
-
-
-
-
-
-
-
-
