@@ -14,6 +14,6 @@
 | 10.    | toast                         | [Repl Link](https://repl.it/@ApurvChimralwar/toast-v1) |      -      |
 | 11.    | different types of toast      | [Repl Link](https://repl.it/@ApurvChimralwar/toast-v2) | TODO: minimize number of useStates used + code redundancy |
 | 12.    | todo/strikethrough            |      -      |      -      |
-| 13.    | dark mode                     |      -      |      -      |
+| 13.    | dark mode                     | [Repl Link](https://repl.it/@ApurvChimralwar/dark-mode-v1) |      -      |
 | 14.    | like in a list                |      -      |      -      |
 
