@@ -13,7 +13,7 @@
 | 9.     | switch tabs                   | [Repl Link](https://repl.it/@ApurvChimralwar/switch-tabs-v1#src/App.jsx) |      -      |
 | 10.    | toast                         | [Repl Link](https://repl.it/@ApurvChimralwar/toast-v1) |      -      |
 | 11.    | different types of toast      | [Repl Link](https://repl.it/@ApurvChimralwar/toast-v2) | TODO: minimize number of useStates used + code redundancy |
-| 12.    | todo/strikethrough            |      -      |      -      |
+| 12.    | todo/strikethrough            | [Repl Link](https://repl.it/@ApurvChimralwar/todo-v4) |      -      |
 | 13.    | dark mode                     | [Repl Link](https://repl.it/@ApurvChimralwar/dark-mode-v1) |      -      |
 | 14.    | like in a list                |      -      |      -      |
 
