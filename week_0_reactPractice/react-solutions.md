@@ -16,4 +16,5 @@
 | 12.    | todo/strikethrough            | [Repl Link](https://repl.it/@ApurvChimralwar/todo-v4) | TODO: Reduce number of usestates used |
 | 13.    | dark mode                     | [Repl Link](https://repl.it/@ApurvChimralwar/dark-mode-v1) | - |
 | 14.    | like in a list                |      -      |      -      |
+| 15.    | Out of Stock(Grey)            |      -      |      -      |
 
