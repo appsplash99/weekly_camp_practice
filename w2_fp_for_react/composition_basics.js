@@ -2,8 +2,7 @@
 What is Composition?
   let f(x) and g(x) be two functions such that:
   output of f(x) should go into g(x)
-  which is g(f(x)).
-*/
+  which is g(f(x)).*/
 
 let add = (a, b) => a + b
 let square = num => num**2 
