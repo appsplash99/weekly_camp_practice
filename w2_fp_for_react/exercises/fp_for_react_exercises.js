@@ -31,7 +31,6 @@ Write Array.filter with Reduce */
 ### FP FOR REACT PROBLEMS ### 
 #############################
 */
-
 /*  
 ---------------------------
 |  I - ARRAY OF INTEGERS  | 
