@@ -5,7 +5,7 @@
 | 1.     | a simple counter              | [Repl Link](https://repl.it/@ApurvChimralwar/simple-counter) |      -      |
 | 2.     | character counter (Twitter)   | [Repl Link](https://repl.it/@ApurvChimralwar/character-counter-twitter) |      -      |
 | 3.     | password match                | [Repl Link](https://repl.it/@ApurvChimralwar/password-match-via-only-one-useState-call) |      -      |
-| 4.     | alphanumeric password         |      -      |      -      |
+| 4.     | alphanumeric password         | [Repl Link](https://repl.it/@ApurvChimralwar/alphanum-password-checker) |      -      |
 | 5.     | disable submit                | [Repl Link](https://repl.it/@ApurvChimralwar/disable-submit-working-v2) |      -      |
 | 6.     | show password                 | [Repl Link](https://repl.it/@ApurvChimralwar/show-password-v2) |      -      |
 | 7.     | designer tool (small figma)   | [Repl Link](https://repl.it/@ApurvChimralwar/designer-tool-small-figma-app-v3) |      TODO: on click font templates|
